@@ -1,0 +1,25 @@
+{
+  "name": "qbridge",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunGod7/queens-bridgetv.git"
+  },
+  "author": "sungod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunGod7/queens-bridgetv/issues"
+  },
+  "homepage": "https://github.com/SunGod7/queens-bridgetv#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "liquid": "^5.1.1",
+    "liquid-express-views": "^1.0.8"
+  }
+}
